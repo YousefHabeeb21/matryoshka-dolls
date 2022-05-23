@@ -1,14 +1,4 @@
 /**------------------------------------------
-
-    Program 1: Matryoshka Dolls
-        Prompt for the number of dolls and display
-        ASCII Matryoshka dolls in decending order
-        above each other.
-
-    Course: CS 141, Spring 2022.
-    System:  Mac using Visual Studio
-    Author: Yousef Habeeb
-
     Original ASCII graphics gives:
         ------------------------------------------
           Jeremiah the toad 
